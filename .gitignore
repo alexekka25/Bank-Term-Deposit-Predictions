@@ -1,0 +1,45 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+venv/
+.env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+
+mlruns/
+
+
+*.log
+
+# IDE and editor 
+.vscode/
+.idea/
+
+
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+.coverage
+*.cover
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+.eggs/
+dist/
+build/
+*.egg-info/
